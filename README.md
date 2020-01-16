@@ -9,7 +9,7 @@
 
 1. Talk must be related to Python. 
 2. No commercial pitches. Tell us about the technical challenges around building the product and not the product itself.
-3. Recruiters are welcome to do talks as long as they technical and/or of value to the community.
+3. Recruiters are welcome to do talks as long as they are technical and/or of value to the community.
 4. The code of conduct and the locale rules applies to talks. 
 5. Talks should be in English unless otherwise discussed.
 
