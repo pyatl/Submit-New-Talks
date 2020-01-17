@@ -2,7 +2,7 @@
 
 - [ ]  I have included the name of the talk in the issue ( a working name is OK ).
 - [ ]  I have described what the talk is about and have been as detailed as possible.
-- [ ]  I have provided a schedule of when I'd like to give this talk. I have provided as many alternate dates as possible. Have taken into account that we only meet once a month (aside from Jam Sessions).
+- [ ]  ( Optional: If submitting a talk. Not required for talk idea. ) I have provided a schedule of when I'd like to give this talk. I have provided as many alternate dates as possible. Have taken into account that we only meet once a month (aside from Jam Sessions).
 
 
 # General Talk Rules
