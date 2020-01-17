@@ -1,8 +1,8 @@
-# How to submit a talk to PyATL
+# How to submit a talk or a talk idea to PyATL
 
 1. Please open an issue with the name of the talk ( a working name is OK ).
 2. Describe what the talk is about. Be as detailed as possible.
-3. Provide a schedule of when you'd like to give this talk. Please provide as many alternate dates as possible. Take into account that we only meet once a month (aside from Jam Sessions).
+3. (Optional but very helpful) Provide a schedule of when you'd like to give this talk. Please provide as many alternate dates as possible. Take into account that we only meet once a month (aside from Jam Sessions).
 
 
 # General Talk Rules
