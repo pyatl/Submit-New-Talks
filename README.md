@@ -1,7 +1,7 @@
 # How to submit a talk or a talk idea to PyATL
 
-1. Please open an issue with the name of the talk ( a working name is OK ).
-2. Describe what the talk is about. Be as detailed as possible.
+1. Please open an issue with the name of the talk ( a working name is OK ). For talk ideas and proposals, we ask that you start the title with "Talk Idea" or "Talk Proposal" respectively.
+2. Describe what the talk is about. Be as detailed as possible. For Lightning Talk proposals, please indicate that this would be a lightning talk in the body of your description.
 3. (Optional but very helpful) Provide a schedule of when you'd like to give this talk. Please provide as many alternate dates as possible. Take into account that we only meet once a month (aside from Jam Sessions).
 
 
